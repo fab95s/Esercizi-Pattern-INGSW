@@ -13,6 +13,7 @@
 	<classpathentry kind="src" path="Visitor (VST)"/>
 	<classpathentry kind="src" path="Array Sort (STG)"/>
 	<classpathentry kind="src" path="Ascensore (ST)"/>
+	<classpathentry kind="src" path="Chat Room (OB)"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
