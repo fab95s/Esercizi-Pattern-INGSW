@@ -1,0 +1,3 @@
+rectangle x=10 y=10 width=100 height=200
+ellipse x=50 y=50 width=150 height=150
+triangle x=100 y=50 x=150 y=200 x=250 y=300
