@@ -10,6 +10,7 @@
 	<classpathentry kind="src" path="Slideshow (PR)"/>
 	<classpathentry kind="src" path="Coda Stampanti (CoR)"/>
 	<classpathentry kind="src" path="Paint (MMT-CMD)"/>
+	<classpathentry kind="src" path="Visitor (VST)"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
