@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="Grafici (AF)"/>
 	<classpathentry kind="src" path="Configuratore Auto (FM-SI)"/>
+	<classpathentry kind="src" path="ASCII Art (AF)"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
