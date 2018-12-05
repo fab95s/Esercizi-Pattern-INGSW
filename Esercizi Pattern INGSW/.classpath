@@ -5,6 +5,7 @@
 	<classpathentry kind="src" path="ASCII Art (AF)"/>
 	<classpathentry kind="src" path="Shape Builder (BU)"/>
 	<classpathentry kind="src" path="File Explorer (AD)"/>
+	<classpathentry kind="src" path="Gioco Immagini (FL)"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
